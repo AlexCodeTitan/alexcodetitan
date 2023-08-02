@@ -5,7 +5,7 @@
 
 - I’m currently working on **Internet Banking Website**
 
-- I’m currently learning **Redux, APIs, Firebase**
+- I’m currently learning **GraphQL, SQL, Data Security**
 
 - I'm based in **Bucharest, Romania**
 
