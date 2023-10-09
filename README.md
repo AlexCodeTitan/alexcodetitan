@@ -6,6 +6,8 @@
 
 - I’m currently learning **GraphQL, SQL, Data Security**
 
+- I'm now working on a **Fitness Tracking Web App**
+
 - I'm based in **Bucharest, Romania**
 
 - How to reach me **aandoneseialex@gmail.com**
