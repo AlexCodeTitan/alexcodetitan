@@ -6,7 +6,7 @@
 
 - I’m currently learning **GraphQL, SQL, Data Security**
 
-- I'm now working on a **Fitness Tracking Web App**
+- I'm now working on a **Rental Platform**
 
 - I'm based in **Bucharest, Romania**
 
